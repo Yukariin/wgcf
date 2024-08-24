@@ -2,7 +2,7 @@ module github.com/Yukariin/wgcf
 
 go 1.18
 
-replace github.com/ViRb3/wgcf/openapi => ./openapi
+replace github.com/Yukariin/wgcf/openapi => ./openapi
 
 require (
 	github.com/ViRb3/optic-go v0.0.0-20240309111653-486347a8369d
