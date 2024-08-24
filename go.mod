@@ -1,4 +1,4 @@
-module github.com/ViRb3/wgcf
+module github.com/Yukariin/wgcf
 
 go 1.18
 
